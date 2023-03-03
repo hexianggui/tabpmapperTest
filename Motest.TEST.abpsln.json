@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Motest.TEST": {
+      "path": "Motest.TEST.abpmdl.json"
+    }
+  }
+}

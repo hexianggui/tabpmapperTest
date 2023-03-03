@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Motest.TEST.Domain.Shared": {
+      "path": "src/Motest.TEST.Domain.Shared/Motest.TEST.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.Domain": {
+      "path": "src/Motest.TEST.Domain/Motest.TEST.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.Application.Contracts": {
+      "path": "src/Motest.TEST.Application.Contracts/Motest.TEST.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.Application": {
+      "path": "src/Motest.TEST.Application/Motest.TEST.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.EntityFrameworkCore": {
+      "path": "src/Motest.TEST.EntityFrameworkCore/Motest.TEST.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.MongoDB": {
+      "path": "src/Motest.TEST.MongoDB/Motest.TEST.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.HttpApi": {
+      "path": "src/Motest.TEST.HttpApi/Motest.TEST.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.HttpApi.Client": {
+      "path": "src/Motest.TEST.HttpApi.Client/Motest.TEST.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Motest.TEST.TestBase": {
+      "path": "test/Motest.TEST.TestBase/Motest.TEST.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Motest.TEST.EntityFrameworkCore.Tests": {
+      "path": "test/Motest.TEST.EntityFrameworkCore.Tests/Motest.TEST.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Motest.TEST.MongoDB.Tests": {
+      "path": "test/Motest.TEST.MongoDB.Tests/Motest.TEST.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Motest.TEST.Domain.Tests": {
+      "path": "test/Motest.TEST.Domain.Tests/Motest.TEST.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Motest.TEST.Application.Tests": {
+      "path": "test/Motest.TEST.Application.Tests/Motest.TEST.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Motest.TEST.HttpApi.Host": {
+      "path": "host/Motest.TEST.HttpApi.Host/Motest.TEST.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Motest.TEST.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Motest.TEST.HttpApi.Client.ConsoleTestApp/Motest.TEST.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Motest.TEST.AuthServer": {
+      "path": "host/Motest.TEST.AuthServer/Motest.TEST.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "Motest.TEST.Host.Shared": {
+      "path": "host/Motest.TEST.Host.Shared/Motest.TEST.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}
